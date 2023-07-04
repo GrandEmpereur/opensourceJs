@@ -1,8 +1,11 @@
 {
-  "name": "iim-opensource-2023",
+  "name": "grand-empereur-opensource-td4",
   "version": "1.0.0",
   "description": "generate random number ",
   "main": "main.js",
   "author": "GrandEmpereur",
+  "scripts": {
+    "start": "node main.js"
+  },
   "license": "MIT"
 }

@@ -1,8 +1,8 @@
 // Path: src\main.ts
 
-function getRandomNumber() {
-    return Math.random();
-}
-console.log(getRandomNumber());
+function getRandomInt() {
+    return Math.floor(Math.random() * 101);
+  }
+console.log(getRandomInt());
 
-module.exports = getRandomNumber;
+module.exports = getRandomInt;
