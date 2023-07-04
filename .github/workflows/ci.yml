@@ -37,3 +37,5 @@ jobs:
         run: npm version patch
       - name: Publish package
         run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ env.NODE_AUTH_TOKEN }}

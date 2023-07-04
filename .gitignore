@@ -4,3 +4,7 @@ node_modules
 # Ignore npm/yarn lock files
 package-lock.json
 yarn.lock
+
+# igone env files
+.env
+.env.*
