@@ -1,0 +1,8 @@
+{
+  "name": "opensourceJs",
+  "version": "1.0.0",
+  "description": "generate random number ",
+  "main": "main.js",
+  "author": "GrandEmpereur",
+  "license": "MIT"
+}
