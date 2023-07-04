@@ -1,8 +1,16 @@
 {
-  "name": "opensourceJs",
+  "name": "iim-opensource-2023",
   "version": "1.0.0",
   "description": "generate random number ",
   "main": "main.js",
   "author": "GrandEmpereur",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  }
 }
