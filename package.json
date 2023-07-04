@@ -4,13 +4,5 @@
   "description": "generate random number ",
   "main": "main.js",
   "author": "GrandEmpereur",
-  "license": "MIT",
-  "scripts": {
-    "start": "node main.js"
-  },
-  "dependencies": {
-    
-  },
-  "devDependencies": {
-  }
+  "license": "MIT"
 }
